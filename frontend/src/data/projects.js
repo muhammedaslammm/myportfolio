@@ -1,11 +1,15 @@
 const projects = [
   {
     title: "E-Commerce application",
-    description: "An ecommerce application listing mens apparel",
+    note: "An ecommerce application listing mens apparel",
+  },
+  {
+    title: "Bizdata Attendance Portal",
+    note: "A desktop interface to handle employee attendance",
   },
   {
     title: "CRM project",
-    description: "A full stack application manages customer details",
+    note: "A full stack application manages customer details",
   },
 ];
 

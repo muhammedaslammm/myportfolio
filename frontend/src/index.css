@@ -2,8 +2,14 @@
 
 html {
   font-size: 10px;
-  font-family: "Lexend", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 body {
-  background-color: rgb(10, 10, 10);
+  background-color: rgb(6, 6, 6);
+}
+
+h1, h2, h3{
+  font-family: 'DM Sans',sans-serif;
+  color: #e5e5e5;
+  font-weight: 500;
 }
